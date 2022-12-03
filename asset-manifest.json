@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Swati-More-Portfolio/static/css/main.d9cb786d.css",
-    "main.js": "/Swati-More-Portfolio/static/js/main.a17802ee.js",
+    "main.css": "/Swati-More-Portfolio/static/css/main.64baf2af.css",
+    "main.js": "/Swati-More-Portfolio/static/js/main.226ff0ac.js",
     "static/js/787.23767c55.chunk.js": "/Swati-More-Portfolio/static/js/787.23767c55.chunk.js",
-    "static/media/Swati Resume.pdf": "/Swati-More-Portfolio/static/media/Swati Resume.894ba87332102bc2fd27.pdf",
-    "static/media/about.jpeg": "/Swati-More-Portfolio/static/media/about.6b3cdce297229d6787cf.jpeg",
-    "static/media/profile.jpeg": "/Swati-More-Portfolio/static/media/profile.6b3cdce297229d6787cf.jpeg",
+    "static/media/RESUME.pdf": "/Swati-More-Portfolio/static/media/RESUME.0c4fa3315e3692a3145c.pdf",
+    "static/media/work-7.jpg": "/Swati-More-Portfolio/static/media/work-7.937137a15e958b06f0e0.jpg",
     "static/media/work-4.svg": "/Swati-More-Portfolio/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
     "static/media/work-3.svg": "/Swati-More-Portfolio/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
     "static/media/work-1.svg": "/Swati-More-Portfolio/static/media/work-1.bebc0ee30ea8dd5325cfeb0fe8f2615b.svg",
+    "static/media/work-6.svg": "/Swati-More-Portfolio/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
+    "static/media/profile.jpg": "/Swati-More-Portfolio/static/media/profile.3bf9cb9fcf2999f15918.jpg",
     "static/media/work-5.svg": "/Swati-More-Portfolio/static/media/work-5.d7139045fa5cd7bea4b9807b31919a00.svg",
     "static/media/work-2.svg": "/Swati-More-Portfolio/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
     "index.html": "/Swati-More-Portfolio/index.html",
-    "main.d9cb786d.css.map": "/Swati-More-Portfolio/static/css/main.d9cb786d.css.map",
-    "main.a17802ee.js.map": "/Swati-More-Portfolio/static/js/main.a17802ee.js.map",
+    "main.64baf2af.css.map": "/Swati-More-Portfolio/static/css/main.64baf2af.css.map",
+    "main.226ff0ac.js.map": "/Swati-More-Portfolio/static/js/main.226ff0ac.js.map",
     "787.23767c55.chunk.js.map": "/Swati-More-Portfolio/static/js/787.23767c55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9cb786d.css",
-    "static/js/main.a17802ee.js"
+    "static/css/main.64baf2af.css",
+    "static/js/main.226ff0ac.js"
   ]
 }
