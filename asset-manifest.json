@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Swati-More-Portfolio/static/css/main.64baf2af.css",
-    "main.js": "/Swati-More-Portfolio/static/js/main.226ff0ac.js",
+    "main.js": "/Swati-More-Portfolio/static/js/main.ffa90297.js",
     "static/js/787.23767c55.chunk.js": "/Swati-More-Portfolio/static/js/787.23767c55.chunk.js",
     "static/media/RESUME.pdf": "/Swati-More-Portfolio/static/media/RESUME.0c4fa3315e3692a3145c.pdf",
     "static/media/work-7.jpg": "/Swati-More-Portfolio/static/media/work-7.937137a15e958b06f0e0.jpg",
@@ -14,11 +14,11 @@
     "static/media/work-2.svg": "/Swati-More-Portfolio/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
     "index.html": "/Swati-More-Portfolio/index.html",
     "main.64baf2af.css.map": "/Swati-More-Portfolio/static/css/main.64baf2af.css.map",
-    "main.226ff0ac.js.map": "/Swati-More-Portfolio/static/js/main.226ff0ac.js.map",
+    "main.ffa90297.js.map": "/Swati-More-Portfolio/static/js/main.ffa90297.js.map",
     "787.23767c55.chunk.js.map": "/Swati-More-Portfolio/static/js/787.23767c55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64baf2af.css",
-    "static/js/main.226ff0ac.js"
+    "static/js/main.ffa90297.js"
   ]
 }
